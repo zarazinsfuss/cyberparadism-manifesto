@@ -1,5 +1,7 @@
 # Cyberparadism Manifesto
 
+![cyperparadism_hero.png](cyperparadism_hero.png)
+
 This is a web manifesto of the Cyberparadism aesthetic. Cyberparadism originated on the [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Cyberparadism) and is an aesthetic that celebrates the positive potential of technology and scientific progress to create a better future for humanity. At its core, Cyberparadism is about using technology to enhance the human experience, promote sustainability, and foster a sense of collective purpose and responsibility.
 
 This is not a political or economical manifesto. It serves the purpose to declare the aesthetical principles of Cyberparadism and its derivates. Other names for Cyberparadism are Cyber Paradise, Cybergenesis, Neogenesis. An aesthetic works very similarly like an idea. It seeks to inspire and stimulate imagination rather than provide a comprehensive plan for societal change. Cyberparadism offers a compelling vision of a future where technology and nature coexist in harmony, where abundance and prosperity are available to all, and where the human experience is enhanced by the responsible use of technology.
