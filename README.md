@@ -26,3 +26,9 @@ Join us in imagining a better future, and in working towards a world where techn
 - **The Law of Harmony:** Cyberparadism seeks to create a world where technology and nature coexist in harmony, rather than being in conflict with each other.
 - **The Law of Simplicity:** Cyberparadism values simplicity and minimalism in design, and seeks to create technologies that are easy to use and understand.
 - **The Law of Abundance:** Cyberparadism believes that technology can be a powerful force for creating abundance and prosperity, and seeks to use it to enhance the human experience and promote social and economic equality.
+
+## To-Dos
+
+- Non-AI generated visuals would be welcome, if anyone is up to create artwork for this manifesto, please let us know
+- Non-blob full-fledged landing page (already in the works)
+- Flesh out manifesto with more sub-chapters and references
