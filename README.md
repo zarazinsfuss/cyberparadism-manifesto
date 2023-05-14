@@ -4,7 +4,7 @@
 
 > "The best way to predict the future is to invent it."
 >
-> - Alan Kay
+> — Alan Kay
 
 This is a web manifesto of the Cyberparadism aesthetic. Cyberparadism originated on the [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Cyberparadism) where it got formalized for the first time and is an aesthetic that celebrates the positive potential of technology and scientific progress to create a better future for humanity. At its core, Cyberparadism is about using technology to enhance the human experience, promote sustainability, and foster a sense of collective purpose and responsibility.
 
@@ -28,7 +28,7 @@ Join us in imagining a better future, and in working towards a world where techn
 
 > "We shall require a substantially new manner of thinking if mankind is to survive."
 >
-> - Albert Einstein
+> — Albert Einstein
 
 In the realm of Cyberparadism, we uphold a set of guiding principles that embody our vision for a harmonious future, where technology and nature coexist and enrich each other. These principles, or Laws, serve as the foundation of our aesthetic and our ethos, shaping our understanding of how technology can be harnessed to create a prosperous, equitable, and sustainable world. They are the pillars upon which Cyberparadism stands, guiding our endeavors and inspiring our imaginations as we work towards our vision of an idyllic future.
 
