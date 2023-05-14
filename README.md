@@ -2,6 +2,10 @@
 
 ![cyperparadism_hero.png](https://raw.githubusercontent.com/zarazinsfuss/cyberparadism-manifesto/main/cyberparadism_hero.png)
 
+> "The best way to predict the future is to invent it."
+>
+> - Alan Kay
+
 This is a web manifesto of the Cyberparadism aesthetic. Cyberparadism originated on the [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Cyberparadism) where it got formalized for the first time and is an aesthetic that celebrates the positive potential of technology and scientific progress to create a better future for humanity. At its core, Cyberparadism is about using technology to enhance the human experience, promote sustainability, and foster a sense of collective purpose and responsibility.
 
 This is not a political or economical manifesto. It serves the purpose to declare the aesthetical principles of Cyberparadism and its derivates. Other names for Cyberparadism are Cyber Paradise, Cybergenesis, Neogenesis. An aesthetic works very similarly like an idea. It seeks to inspire and stimulate imagination rather than provide a comprehensive plan for societal change. Cyberparadism offers a compelling vision of a future where technology and nature coexist in harmony, where abundance and prosperity are available to all, and where the human experience is enhanced by the responsible use of technology.
@@ -22,6 +26,10 @@ Join us in imagining a better future, and in working towards a world where techn
 
 ## The Laws of Cyberparadism
 
+> "We shall require a substantially new manner of thinking if mankind is to survive."
+>
+> - Albert Einstein
+
 In the realm of Cyberparadism, we uphold a set of guiding principles that embody our vision for a harmonious future, where technology and nature coexist and enrich each other. These principles, or Laws, serve as the foundation of our aesthetic and our ethos, shaping our understanding of how technology can be harnessed to create a prosperous, equitable, and sustainable world. They are the pillars upon which Cyberparadism stands, guiding our endeavors and inspiring our imaginations as we work towards our vision of an idyllic future.
 
 - **The Law of Abundance**: Cyberparadism is founded on the belief that technology can be a powerful catalyst for abundance and prosperity. We strive to employ technology in ways that enhance human experiences, and promote social and economic equality, envisioning a future where scarcity is replaced by abundance for all.
@@ -41,6 +49,15 @@ In the realm of Cyberparadism, we uphold a set of guiding principles that embody
 - **The Law of Simplicity**: Simplicity and minimalism are core values in Cyberparadism. We seek to design and create technologies that are easy to use and understand, embracing the principle that technology should simplify life, not complicate it. We strive for solutions that are elegant in their simplicity, yet powerful in their impact.
 
 These Laws of Cyberparadism represent the guiding lights of the aesthetic of the potentiality of a harmonious coexistence of technology and nature. They are not hierarchical in nature, but rather complementary facets of a whole, each shedding light on a different aspect of our shared vision. We believe that these laws should be interpreted and applied in a manner that respects their interconnectedness and mutual dependence. It is not about prioritizing one over another, but understanding how they all weave together to create the fabric of Cyberparadism. The balance and harmony among these Laws is key to achieving the ideal we strive for, a future where technology enhances human experience, fosters equity, and preserves the beauty of our natural world.
+
+## Resources for further exploration
+
+Rooted in its formalization on the Aesthetics Wiki, the [Cyberparadism entry](https://aesthetics.fandom.com/wiki/Cyberparadism) on this platform serves as an ideal starting point for delving deeper into the Cyberparadism aesthetic and its associated subculture.
+
+Furhter places to look for the expression of Cyberparadism is on various social media platforms. The following platforms provide the possibility to inspect content tagged with _#cyberparadism_:
+
+- [Tumblr](https://www.tumblr.com/tagged/Cyberparadism?sort=top)
+- [TikTok](https://www.tiktok.com/tag/cyberparadism)
 
 ## To-Dos
 
