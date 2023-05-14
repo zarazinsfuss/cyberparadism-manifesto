@@ -52,6 +52,10 @@ These Laws of Cyberparadism represent the guiding lights of the aesthetic of the
 
 ## Resources for further exploration
 
+> "Abundance is not something we acquire. It is something we tune into."
+>
+> — Wayne Dyer
+
 Rooted in its formalization on the Aesthetics Wiki, the [Cyberparadism entry](https://aesthetics.fandom.com/wiki/Cyberparadism) on this platform serves as an ideal starting point for delving deeper into the Cyberparadism aesthetic and its associated subculture.
 
 Furhter places to look for the expression of Cyberparadism is on various social media platforms. The following platforms provide the possibility to inspect content tagged with _#cyberparadism_:
