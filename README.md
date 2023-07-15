@@ -88,6 +88,7 @@ The exploration of Cyberparadism is vast and the resources are plentiful, with m
 List of related concepts for further exploration:
 
 - [Ephemeralization](https://en.wikipedia.org/wiki/Ephemeralization)
+- [Spaceship Earth](https://en.wikipedia.org/wiki/Spaceship_Earth)
 
 ## To-Dos
 
