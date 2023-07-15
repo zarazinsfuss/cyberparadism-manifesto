@@ -78,10 +78,16 @@ As we embark on this speculative journey, it is important to explore the signs a
 
 Rooted in its formalization on the Aesthetics Wiki, the [Cyberparadism entry](https://aesthetics.fandom.com/wiki/Cyberparadism) on this platform serves as an ideal starting point for delving deeper into the Cyberparadism aesthetic and its associated subculture.
 
-Furhter places to look for the expression of Cyberparadism is on various social media platforms. The following platforms provide the possibility to inspect content tagged with _#cyberparadism_:
+Furhter places to look for the expression of Cyberparadism is on various social media platforms. The following platforms provide the possibility to inspect content tagged with `#cyberparadism`:
 
 - [Tumblr](https://www.tumblr.com/tagged/Cyberparadism?sort=top)
 - [TikTok](https://www.tiktok.com/tag/cyberparadism)
+
+The exploration of Cyberparadism is vast and the resources are plentiful, with more becoming available as technology evolves and humanity takes steps towards this envisioned future. Join us in this journey and let's shape the future together.
+
+List of related concepts for further exploration:
+
+- [Ephemeralization](https://en.wikipedia.org/wiki/Ephemeralization)
 
 ## To-Dos
 
