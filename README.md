@@ -14,7 +14,7 @@ As an aesthetic, Cyberparadism offers a framework for exploring the potential of
 
 We believe that technology can be a powerful force for good, when used in a responsible and thoughtful way. By harnessing the power of technology, we can create a world of abundance and prosperity, where all individuals have the opportunity to thrive and reach their full potential.
 
-At the heart of Cyberparadism is a commitment to sustainability and the responsible use of natural resources. We recognize that our current economic and social systems are not sustainable, and that we must embrace new approaches that promote environmental conservation, social justice, and economic equality.
+At the heart of Cyberparadism is a commitment to preservation and embetterment of life through the keen pursuit of science and the positive use of technology. We recognize that our current economic and social order needs to adapt, and that we must embrace new approaches to democratize a pristine way of life. 
 
 We believe that the future of technology lies not in the pursuit of profit or power, but in the pursuit of a higher purpose. Through the responsible use of technology, we can create a world where abundance and prosperity are available to all, where we live in harmony with nature, and where we work together to achieve shared goals.
 
