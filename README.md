@@ -18,7 +18,7 @@ At the heart of Cyberparadism is a commitment to preservation and embetterment o
 
 We believe that the future of technology lies not in the pursuit of profit or power, but in the pursuit of a higher purpose. Through the responsible use of technology, we can create a world where abundance and prosperity are available to all, where we live in harmony with nature, and where we work together to achieve shared goals.
 
-As Cyberparadists, we are committed to promoting the values of sustainability, simplicity, and community. We recognize that technology alone is not enough to create a better world, and that we must work together to build a more just and equitable society.
+As Cyberparadists, we are committed to promoting the values of ingenuity, continuity, and siblinghood. We recognize that technology alone is not enough to create a better world, and that we must collaborate which each other to build a more just and equitable society.
 
 We believe that the future is not predetermined, but is shaped by our choices and actions. By embracing the principles of Cyberparadism, we can create a world of abundance and prosperity, where all individuals are empowered to reach their full potential and contribute to the greater good.
 
