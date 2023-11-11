@@ -1,6 +1,6 @@
 # Cyberparadism Manifesto
 
-![cyperparadism_hero.png](https://raw.githubusercontent.com/zarazinsfuss/cyberparadism-manifesto/main/cyberparadism_hero.png)
+![cyperparadism_hero.png](https://raw.githubusercontent.com/zarazinsfuss/cyberparadism-manifesto/main/cyberparadism_hero2.png)
 
 > "The best way to predict the future is to invent it."
 >
