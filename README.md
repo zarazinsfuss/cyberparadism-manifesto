@@ -6,6 +6,13 @@
 >
 > — Alan Kay
 
+## Contents
+
+- [The Laws of Cyberparadism](#the-laws-of-cyberparadism)
+- [The Signs of Cyberparadism](#the-signs-of-cyberparadism)
+- [Resources for further exploration](#resources-for-further-exploration)
+- [To-Dos](#to-dos)
+
 This is a web manifesto of the Cyberparadism aesthetic. Cyberparadism originated on the [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Cyberparadism) where it got formalized for the first time and is an aesthetic that celebrates the positive potential of technology and scientific progress to create a better future for humanity. At its core, Cyberparadism is about using technology to enhance the human experience, promote sustainability, and foster a sense of collective purpose and responsibility.
 
 This is not a political or economical manifesto. It serves the purpose to declare the aesthetical principles of Cyberparadism and its derivates. Other names for Cyberparadism are Cyber Paradise, Cybergenesis, Neogenesis. An aesthetic works very similarly like an idea. It seeks to inspire and stimulate imagination rather than provide a comprehensive plan for societal change. Cyberparadism offers a compelling vision of a future where technology and nature coexist in harmony, where abundance and prosperity are available to all, and where the human experience is enhanced by the responsible use of technology.
@@ -24,7 +31,9 @@ We believe that the future is not predetermined, but is shaped by our choices an
 
 Join us in imagining a better future, and in working towards a world where technology is used to enhance the human experience and promote sustainability. Together, we can create a Cyberparadise – a world where technology and nature coexist in harmony, and where abundance and prosperity are available to all.
 
+
 ## The Laws of Cyberparadism
+![the_laws_of_cyberparadism_banner.png](https://github.com/zarazinsfuss/cyberparadism-manifesto/blob/main/the_laws_of_cyberparadism_banner.png?raw=true)
 
 > "We shall require a substantially new manner of thinking if mankind is to survive."
 >
@@ -50,7 +59,9 @@ In the realm of Cyberparadism, we uphold a set of guiding principles that embody
 
 These Laws of Cyberparadism represent the guiding lights of the aesthetic of the potentiality of a harmonious coexistence of technology and nature. They are not hierarchical in nature, but rather complementary facets of a whole, each shedding light on a different aspect of our shared vision. We believe that these laws should be interpreted and applied in a manner that respects their interconnectedness and mutual dependence. It is not about prioritizing one over another, but understanding how they all weave together to create the fabric of Cyberparadism. The balance and harmony among these Laws is key to achieving the ideal we strive for, a future where technology enhances human experience, fosters equity, and preserves the beauty of our natural world.
 
+
 ## The Signs of Cyberparadism
+![the_signs_of_cyberparadism_banner.png](https://github.com/zarazinsfuss/cyberparadism-manifesto/blob/main/the_signs_of_cyberparadism_banner.png?raw=true)
 
 > "Often people, especially computer engineers, focus on the machines. They think, "By doing this, the machine will run fast. By doing this, the machine will run more effectively. By doing this, the machine will something something something." They are focusing on machines. But in fact we need to focus on humans, on how humans care about doing programming or operating the application of the machines. We are the masters. They are the slaves."
 >
@@ -71,6 +82,7 @@ As we embark on this speculative journey, it is important to explore the signs a
 - **Open source collaboration**: The ethos of Cyberparadism encourages open-source collaboration and the sharing of knowledge and resources. Open-source software, hardware, and scientific research foster innovation, inclusivity, and collective problem-solving, enabling the democratization of technology.
 
 ## Resources for further exploration
+![further_resources_banner.png](https://github.com/zarazinsfuss/cyberparadism-manifesto/blob/main/further_resources_cyberparadism_banner.png?raw=true)
 
 > "Abundance is not something we acquire. It is something we tune into."
 >
