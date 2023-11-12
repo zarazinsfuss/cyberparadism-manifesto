@@ -90,6 +90,8 @@ As we embark on this speculative journey, it is important to explore the signs a
 
 Rooted in its formalization on the Aesthetics Wiki, the [Cyberparadism entry](https://aesthetics.fandom.com/wiki/Cyberparadism) on this platform serves as an ideal starting point for delving deeper into the Cyberparadism aesthetic and its associated subculture.
 
+### Social Media presence
+
 Furhter places to look for the expression of Cyberparadism is on various social media platforms. The following platforms provide the possibility to inspect content tagged with `#cyberparadism`:
 
 - [Tumblr](https://www.tumblr.com/tagged/Cyberparadism?sort=top)
@@ -97,10 +99,17 @@ Furhter places to look for the expression of Cyberparadism is on various social 
 
 The exploration of Cyberparadism is vast and the resources are plentiful, with more becoming available as technology evolves and humanity takes steps towards this envisioned future. Join us in this journey and let's shape the future together.
 
-List of related concepts for further exploration:
+### Related concepts and ideas
+
+List of related concepts and ideas for further exploration:
 
 - [Ephemeralization](https://en.wikipedia.org/wiki/Ephemeralization)
 - [Spaceship Earth](https://en.wikipedia.org/wiki/Spaceship_Earth)
+
+### The Techno-Optimist Manifesto
+
+The [Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/) was published on the October 16, 2023 by Marc Andreessen and focuses on the positive impacts of technology on civilization. It counters negative views about technology, emphasizing that technology is the main driver of growth, progress, and improvement in human well-being. It asserts that technology is essential for solving material problems and creating abundance, and is the perpetual source of growth. The manifesto encourages optimism about technological advancements and their ability to solve real-world problems, which is **very reminiscient of the Cyberparadism Manifesto.** Go check it out.
+
 
 ## To-Dos
 
