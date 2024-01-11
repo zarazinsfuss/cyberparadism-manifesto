@@ -113,6 +113,6 @@ The [Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)
 
 ## To-Dos
 
-- Non-AI generated visuals would be welcome, if anyone is up to create artwork for this manifesto, please let us know
-- Non-blob full-fledged landing page (already in the works)
-- Flesh out manifesto with more sub-chapters and references
+- ☐ Non-AI generated visuals would be welcome, if anyone is up to create artwork for this manifesto, please let us know
+- ☑ Non-blob full-fledged landing page. Temporary URL: [zarazinsfuss.github.io/cyberparadism/](https://zarazinsfuss.github.io/cyberparadism/)
+- ☐ Flesh out manifesto with more sub-chapters and references
