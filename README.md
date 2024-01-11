@@ -1,3 +1,6 @@
+> [!NOTE]  
+> The Cyberparadism aesthetic just got its new web presence here: [🔗 zarazinsfuss.github.io/cyberparadism/](https://zarazinsfuss.github.io/cyberparadism/)
+
 # Cyberparadism Manifesto
 
 ![cyperparadism_hero.png](https://raw.githubusercontent.com/zarazinsfuss/cyberparadism-manifesto/main/cyberparadism_hero2.png)
